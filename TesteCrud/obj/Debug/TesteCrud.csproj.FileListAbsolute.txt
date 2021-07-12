@@ -1,0 +1,11 @@
+C:\Users\Zaupa Junior\source\repos\TesteCrud\TesteCrud\bin\Debug\TesteCrud.exe.config
+C:\Users\Zaupa Junior\source\repos\TesteCrud\TesteCrud\bin\Debug\TesteCrud.exe
+C:\Users\Zaupa Junior\source\repos\TesteCrud\TesteCrud\bin\Debug\TesteCrud.pdb
+C:\Users\Zaupa Junior\source\repos\TesteCrud\TesteCrud\obj\Debug\TesteCrud.csprojAssemblyReference.cache
+C:\Users\Zaupa Junior\source\repos\TesteCrud\TesteCrud\obj\Debug\TesteCrud.frmPrincipal.resources
+C:\Users\Zaupa Junior\source\repos\TesteCrud\TesteCrud\obj\Debug\TesteCrud.Properties.Resources.resources
+C:\Users\Zaupa Junior\source\repos\TesteCrud\TesteCrud\obj\Debug\TesteCrud.csproj.GenerateResource.cache
+C:\Users\Zaupa Junior\source\repos\TesteCrud\TesteCrud\obj\Debug\TesteCrud.csproj.CoreCompileInputs.cache
+C:\Users\Zaupa Junior\source\repos\TesteCrud\TesteCrud\obj\Debug\TesteCrud.exe
+C:\Users\Zaupa Junior\source\repos\TesteCrud\TesteCrud\obj\Debug\TesteCrud.pdb
+C:\Users\Zaupa Junior\source\repos\TesteCrud\TesteCrud\obj\Debug\TesteCrud.frmEmpresa.resources

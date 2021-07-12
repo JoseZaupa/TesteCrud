@@ -1,0 +1,7 @@
+CREATE TABLE Empresa
+(Id int IDENTITY (1,1) Primary Key not null, 
+ Nome nvarchar(255) not null,
+ Site nvarchar(255) not null,
+ QuantidadeFuncionarios int not null
+);
+
